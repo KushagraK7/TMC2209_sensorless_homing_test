@@ -3,4 +3,6 @@ A simple code using the [TMCStepper](https://www.arduinolibraries.info/libraries
 It is set up to home two stepper motors, you can uncomment the functions motorAHome() or motorBHome() to just test a single motor.
 
 A circuit schematic, made with [Cirkit Designer](https://www.cirkitdesign.com/index.html), for this setup can be viewed [here](https://projects.cirkitdesigner.com/view-maker-hub-project/27695).
+
     
+<img width="2844" height="2236" alt="TMC2209 Sensorless Homing Test Circuit" src="https://github.com/user-attachments/assets/974ef594-b8f4-44ce-b529-f1d17f6aa2e7" />
